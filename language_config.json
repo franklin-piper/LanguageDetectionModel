@@ -1,0 +1,32 @@
+{
+  "languages": [
+    {
+      "label": "Sardinian",
+      "url": "https://data.statmt.org/cc-100/sc.txt.xz"
+    },
+    {
+      "label": "Bengali",
+      "url": "https://data.statmt.org/cc-100/bn.txt.xz"
+    },
+    {
+      "label": "Swahili",
+      "url": "https://data.statmt.org/cc-100/sw.txt.xz"
+    },
+    {
+      "label": "Welsh",
+      "url": "https://data.statmt.org/cc-100/cy.txt.xz"
+    },
+    {
+      "label": "French",
+      "url": "https://data.statmt.org/cc-100/fr.txt.xz"
+    },
+    {
+      "label": "Spanish",
+      "url": "https://data.statmt.org/cc-100/es.txt.xz"
+    },
+    {
+      "label": "Turkish",
+      "url": "https://data.statmt.org/cc-100/tr.txt.xz"
+    }
+  ]
+}
